@@ -1,4 +1,4 @@
-@charset "utf-8"
+﻿@charset "utf-8"
 body{	  
 	 overflow:hidden;
 	 margin:0;
@@ -18,5 +18,5 @@ body{
     background:#FFA500; 
     border:1 solid;
     margin:1.6%;
-    border-radius:25px;
+    border-radius:5%;
 }
